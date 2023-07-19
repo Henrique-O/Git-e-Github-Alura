@@ -3,5 +3,5 @@
 > Readme para aprender a mexer.
 
 ```
-npm install sla sla
+node app.js
 ```
